@@ -1,0 +1,13 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+*.test
+
+# Directory configuration file
+.DS_Store
+.idea
+
+# Rust
+Cargo.lock
+target
